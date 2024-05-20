@@ -1,0 +1,61 @@
+section {
+    display: flex;
+}
+.j {
+      background-image: linear-gradient(to top,#FFC200	,#E6399B); 	;
+    border: 3px inset black;
+}
+.j h2 {
+background-color: white;
+}
+.h {
+       background-image: linear-gradient(to top,#A13DD5	,white	,#A13DD5	); 	;
+    border: 3px inset black;
+}
+.h h2 {
+   background-color: white; 
+
+}
+.s {
+  background-image: linear-gradient(to top,#A13DD5	,white	,#A13DD5	); 	;
+border: 3px inset black;
+
+
+}
+.s h1 {
+    color: bisque;
+}
+.t {
+
+ background-image: linear-gradient(to top,#269926	,#67E667	,#269926	); 	
+  border: 3px inset black;
+}
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-image: linear-gradient(to bottom,#7446D7	,#4312AE	,#280671); 	
+}
+header h1 {
+  color: antiquewhite;
+}
+header h2 {
+  color: antiquewhite;
+}
+.t h2 {
+  
+  color: blanchedalmond;
+}
+.w {
+   background-image: linear-gradient(to top,#52EDDD	,white	,#52EDDD	); 	;
+    border: 3px inset black;
+
+}
+
+.w h2 {
+
+   background-color: white; 
+}
+
+.o {
+  color: blanchedalmond;
+}
